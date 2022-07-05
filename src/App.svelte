@@ -1,5 +1,5 @@
 <script lang="ts">
-  import illu from "./assets/magic-trick-front-gradient.png";
+  import illu from "./assets/magic-trick-front-gradient.jpg";
   import Badge from "./components/badge.svelte";
 
   let randomNumber = Math.random();
